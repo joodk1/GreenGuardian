@@ -4,6 +4,4 @@ In Green Guardian, we understand the importance of recycling in protecting the e
 
 Therefore, we are developing an image classification model capable of differentiating between images of paper bags and plastic bags, aiming to contribute to these objectives.
 
-<hr>
-
-##### Jood Almuhaideb - Alanoud Alarifi - Shoug Aljebreen
+> Jood Almuhaideb - Alanoud Alarifi - Shoug Aljebreen
