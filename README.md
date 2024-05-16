@@ -6,4 +6,4 @@ Therefore, we are developing an image classification model capable of differenti
 
 <hr>
 
-##### Jood Almuhaodeb - Alanoud Alarifi - Shoug Aljebreen
+##### Jood Almuhaideb - Alanoud Alarifi - Shoug Aljebreen
